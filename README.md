@@ -2,9 +2,9 @@
 **NOTE: This repo will be periodically updated with latest useful materials used**
 
 ### Environment set-up:
-	- [Setting up Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
-	- [Pulling from and Pushing to Git](https://www.datacamp.com/community/tutorials/git-push-pull)
-	- [Using free GPUs/TPUs for projects](https://towardsdatascience.com/training-machine-learning-models-online-for-free-gpu-tpu-enabled-5def6a5c1ce3)
+- [Setting up Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [Pulling from and Pushing to Git](https://www.datacamp.com/community/tutorials/git-push-pull)
+- [Using free GPUs/TPUs for projects](https://towardsdatascience.com/training-machine-learning-models-online-for-free-gpu-tpu-enabled-5def6a5c1ce3)
 
 ### Algorithms
 	- Platforms: 
