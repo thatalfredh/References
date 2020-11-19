@@ -60,7 +60,7 @@
 
 ### Finance
 - [Understanding global economics by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
-- [Statistical Arbitrage/Pairs Trading](https://www.youtube.com/watch?v=g-qvFjvyqcs)
+- [Coin-Toss and Investing](https://seekingalpha.com/article/4138835-coin-toss-and-investing-success)
 
 ### Forecasting
 - [Using LSTM for forecasting with the cold start problem](https://www.drivendata.co/blog/benchmark-cold-start-lstm-deep-learning/)
