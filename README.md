@@ -61,11 +61,14 @@
 ### Finance
 - [Understanding global economics by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 - [Coin-Toss and Investing](https://seekingalpha.com/article/4138835-coin-toss-and-investing-success)
+- [Social Information Arbitrage](https://medium.com/datadriveninvestor/how-this-trader-turned-10k-into-21-millions-using-a-new-way-of-stock-investing-social-7c898de72033)
+- [Operation Research Articles with Examples in R](https://rsalaza4.medium.com/)
 
 ### Forecasting
 - [Using LSTM for forecasting with the cold start problem](https://www.drivendata.co/blog/benchmark-cold-start-lstm-deep-learning/)
 
 ### More practical materials
+- [Multiprocessing in Python](https://towardsdatascience.com/a-hands-on-guide-to-multiprocessing-in-python-48b59bfcc89e)
 - [Data cleaning guide](https://elitedatascience.com/data-cleaning)
 - [Logistic Regression in Python dealing with unbalanced class](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 - [Does PCA improve classification outcome?](https://towardsdatascience.com/dimensionality-reduction-does-pca-really-improve-classification-outcome-6e9ba21f0a32)
